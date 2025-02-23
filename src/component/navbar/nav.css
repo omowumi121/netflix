@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar img{
+    padding-left: 70px;
+    width: 20%;
+    height: 10%;
+}
+.btn-b{
+    padding-right: 10rem;
+}
+.btn-b button{
+    padding: 8px 25px;
+    background-color: ;
+}
